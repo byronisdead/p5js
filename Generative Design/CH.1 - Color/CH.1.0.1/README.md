@@ -1,0 +1,1 @@
+- Use map for the colors so stage size doesnt matter.
